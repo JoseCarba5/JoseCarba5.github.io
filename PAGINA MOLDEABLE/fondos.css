@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(230, 230, 230);
+}
+
+#cabecera{
+    background-color: red;
+}
+
+#indice{
+    background-color: rgb(244, 244, 244);
+    border: 0cm;
+}
+
+#contenido{
+    background-color: rgb(255, 255, 255);
+    border: 0cm;
+}
+
+#piedepagina{
+    background-color: red;
+    border: 0cm;
+}

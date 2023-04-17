@@ -1,0 +1,23 @@
+#cabecera{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+    text-decoration-style: solid;
+    font-style:normal;
+    font-size:xx-large;
+   
+}
+
+#indice{
+    text-transform:lowercase ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#piedepagina{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+    text-decoration-style: solid;
+    font-style:normal;
+    font-size: x-large;
+}
